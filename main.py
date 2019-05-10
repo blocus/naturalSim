@@ -10,8 +10,8 @@ random.seed(seed)
 print("Seed for world =", seed)
 
 ## global vars
-canvasWidth = 1270
-canvasHeight = 790
+canvasWidth = 530
+canvasHeight = 530
 
 
 ## Tkinter Stuff
